@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+
+.heading1 {
+    margin-top: 5vh;
+    margin-left: 11vw;
+    margin-bottom: 3vh;
+}
+
+.navText {
+    font-size: 3vh;
+}
+
+.container1 {
+    margin-bottom: 2vh;
+}
+
+.container2 {
+    margin-top: 5vh;
+}
+
+.headText {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 5vh;
+}
+
+.infoText {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 3vh;
+}
+
+.mountainIMG {
+    position:relative;
+    width: 80vw;
+    height: 80vh;
+    filter: brightness(75%);
+}
+
+.imgZoom {
+    overflow: hidden;
+}
+
+.imgZoom img {
+    transition: all 1.2s ease;
+}
+
+.imgZoom:hover img {
+    transform: scale(1.2);
+}
+
+
+.mountain {
+    text-align: center;
+    color: white;
+    position: relative;
+}
+
+.centeredText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 5vh;
+}
+
+.video {
+    width: 30vw;
+    height: 30vh;
+}

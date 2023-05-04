@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+}
+
+.heading1 {
+    margin-top: 5vh;
+    margin-left: 11vw;
+    margin-bottom: 3vh;
+}
+
+.navText {
+    font-size: 3vh;
+}
+
+.headText {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 5vh;
+}
+
+.infoText {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 3vh;
+}
+
+.video {
+    width: 30vw;
+    height: 30vh;
+}
+
+.mountain {
+    text-align: center;
+    color: white;
+    position: relative;
+}
+
+.mountainIMG {
+    position:relative;
+    width: 80vw;
+    height: 80vh;
+    filter: brightness(75%);
+}
+
+.centeredText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 5vh;
+}
+
+.container1 {
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+}
+
+.container2 {
+    margin-top: 10vh;
+    margin-left: 19vw;
+    margin-bottom: 10vh;
+}
+
+.infoText {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 3vh;
+}
+
+.container3 {
+    margin-left: 12vw;
+    margin-bottom: 15vh;
+}
+
+.formSpacing {
+    margin-bottom: 4vh;
+}
+
+.formButton {
+    font-size: 3vh;
+}
